@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 <a href="mailto:kietnt.sg@gmail.com"><img src="https://raw.githubusercontent.com/nguyenkiet/info/master/resources/email.png" alt="Email"></a>
-<a href="tel:+840962039932"><img src="https://raw.githubusercontent.com/nguyenkiet/info/master/resources/phone.png" alt="Phone"></a>
+<a href="#"><img src="https://raw.githubusercontent.com/nguyenkiet/info/master/resources/phone.png" alt="Phone"></a>
 </p>
 
 
