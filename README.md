@@ -22,7 +22,7 @@ A professionally qualified sofware engineer with 10 years experience. I am deter
 ## What I Do
 A results-driven, customer-focused, articulate and analytical Software Engineer, I focus to build end-user applications and services which help people to improve working processes and increase their values in business.
 
-Experieneced in:
+Experienced in:
 - Website development
 - Mobile application development
 - Window Desktop application and service
