@@ -43,5 +43,5 @@ Experienced in:
 - Bitbucket: https://bitbucket.org/nguyenkiet
 - Facebook: https://www.facebook.com/tuankiet.nguyen.0501
 - Telegram: https://telegram.me/kietnt
-- Goole+: https://plus.google.com/+TuanKietNguyen
+- Google+: https://plus.google.com/+TuanKietNguyen
 - Twitter: https://twitter.com/realNguyenKiet
