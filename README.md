@@ -39,9 +39,9 @@ Experienced in:
 | ![Vitalify Asia](http://base-make.jp/wp/wp-content/uploads/2016/05/vfa-logo-290x170.png "Vitalify Asia") | `Developer` | `Bannam` `Visualbook` `Drecome` `Symphony` | `PHP` `MySQL` `Android` `IOS` `Synfony` `Smarty` |
 
 ## Follow Me
-- Github: https://github.com/nguyenkiet
-- Bitbucket: https://bitbucket.org/nguyenkiet
 - Facebook: https://www.facebook.com/tuankiet.nguyen.0501
 - Telegram: https://telegram.me/kietnt
 - Google+: https://plus.google.com/+TuanKietNguyen
 - Twitter: https://twitter.com/realNguyenKiet
+- Github: https://github.com/nguyenkiet
+- Bitbucket: https://bitbucket.org/nguyenkiet
