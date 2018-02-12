@@ -37,3 +37,11 @@ Experienced in:
 | ![FPT Software](https://raw.githubusercontent.com/nguyenkiet/info/master/resources/logo-fpt.png "FPT Software") | `PM` `Leader` | `RECEIPT` `ERP` `JIRA` | `.NET` `MSSQL` `JAVA` `Android` `IOS` `AWS` `Oracle` `No-Sql` |
 | ![Viettel](https://raw.githubusercontent.com/nguyenkiet/info/master/resources/logo-viettel.png "Viettel") | `Leader` `Developer` | `SMAS` `SMAS Mobile` `DMS` `My City` | `.NET` `MSSQL` `Network` `Android` `IOS` `JAVA` `HTML` `CSS` |
 | ![Vitalify Asia](http://base-make.jp/wp/wp-content/uploads/2016/05/vfa-logo-290x170.png "Vitalify Asia") | `Developer` | `Bannam` `Visualbook` `Drecome` `Symphony` | `PHP` `MySQL` `Android` `IOS` `Synfony` `Smarty` |
+
+## Follow Me
+- Github: https://github.com/nguyenkiet
+- Bitbucket: https://bitbucket.org/nguyenkiet
+- Facebook: https://www.facebook.com/tuankiet.nguyen.0501
+- Telegram: https://telegram.me/kietnt
+- Goole+: https://plus.google.com/+TuanKietNguyen
+- Twitter: https://twitter.com/realNguyenKiet
